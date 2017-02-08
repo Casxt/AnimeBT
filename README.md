@@ -1,5 +1,5 @@
 # AnimeBT
-示例网址 anime点forer.cn<br>
+示例网址 anime.forer.cn (由于缺钱，服务器已关，而且依赖外部程序太多，暂时停止更新)<br>
 A Django project can auto download anime from share.dmhy.org
 因为懒得翻墙上花园。<br>
 用python3写了一个程序自动下载新番。<br>
